@@ -5,4 +5,4 @@ This particular project was developed on 11th March, 2018 for a Hackathon, organ
 Here, we were given the datasets, and were told to perform a data science and predict the price of bitcoins. <br>
 Using basic data viz techniques, I narrowed down on a couple of features needed to feed as the input the the ML algorithm.<br><br>
 
-Here, Linear Regression has been used and the price of bitcoins have been predicted. The closing price of a day is predicted.<br>
+Here, Linear Regression has been used and the price of bitcoins have been predicted.<br>
