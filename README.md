@@ -1,4 +1,4 @@
-# Bitcoin Price Predictor
+# Bitcoin Price Prediction
 
 This particular project was developed on 11th March, 2018 for a Hackathon, organised by JNTUHCEH, in collaboration with Colaberry, a leading Data Science educator in the USA and Infogrex Technologies.<br><br>
 
